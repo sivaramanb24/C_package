@@ -1,2 +1,2 @@
 # C_package
-C package - Stock market 
+C package - Simple stock trading simulator
